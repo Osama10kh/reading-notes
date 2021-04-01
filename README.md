@@ -13,11 +13,12 @@ A growth mindset is synonymous with a love of learning.
 ## table of contents ##
 
 |read title|link|
-|-------|------------------|
-|read-01|[read-01](read-01)|
-|read-02|[read-02](read-02)|
-|read-03|[read-03](read-03)|
-|read-04|[read-04](read-04)|
+|-------|-------------------                       | 
+|The Coder's Computer|[read-01](read-01)           |
+|Learning Markdown|[read-02a](read-02a)            |
+|Revisions and the Cloud|[read-02b](read-02b)      |
+|Structure web pages with HTML|[read-03](read-03)  |
+|Programming with JavaScript|[read-04](read-04)    |
 --------------------------------------------------
 ***code-102:***
 - [x] HTML
