@@ -20,6 +20,7 @@ A growth mindset is synonymous with a love of learning.
 |Structure web pages with HTML|[read-03](read-03)  |
 |Programming with JavaScript|[read-04](read-04)    |
 |Operators and Loops|[read-05](read-05)            |
+|Operators and Loops|[read-06](read-06)            |
 --------------------------------------------------
 ***code-102:***
 - [x] HTML
