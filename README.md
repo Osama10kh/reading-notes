@@ -1,5 +1,7 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-lMUYdEvfBWEKSmB60djU_4GPHtAa5X9Aw&usqp=CAU)
 
+# Code-201 Reading Notes
+
 I'am **Osama**, a mechanical engineer, I love programming because I believe the programming will be the first and the most important step to achieve my long-terms goals.
 
 [Githup](https://github.com/Osama10kh)  
@@ -13,19 +15,30 @@ A growth mindset is synonymous with a love of learning.
 ## table of contents ##
 
 |read title|link|
-|-------|-------------------                       | 
-|The Coder's Computer|[read-01](read-01)           |
-|Learning Markdown|[read-02a](read-02a)            |
-|Revisions and the Cloud|[read-02b](read-02b)      |
-|Structure web pages with HTML|[read-03](read-03)  |
-|Programming with JavaScript|[read-04](read-04)    |
-|Operators and Loops|[read-05](read-05)            |
-|Operators and Loops|[read-06](read-06)            |
---------------------------------------------------
-***code-102:***
-- [x] HTML
-- [x] CSS
-- [x] javascript
+|-------|-----------------------------------------    | 
+|Introductory HTML and JavaScript|[class-01](class-01)|
+|                         |[]()|
+|                         |[]()|
+|                         |[]()| 
+|                         |[]()|
+|                         |[]()|
+|                         |[]()|
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+----------------------------------------------------
+
+ [Code's-102 Table](Code-102/table-102)
+
+***code-201:***
+- [ ] HTML
+- [ ] CSS
+- [ ] javascript
 
 
 

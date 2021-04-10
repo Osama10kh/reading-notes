@@ -37,7 +37,7 @@ linking to a CSS file.
 # CSS Selectors
  CSS selector that allow you to target rules to specific elements in an HTML document, CSS selectors are case sensitive, so they must match element names and attribute values exactly.
  * Examples:
- ```html
+```html
   * Type Selector : h1, h2, h3 {}Targets the <h1>, <h2> and  <h3> elements
 
   * ID Selector : #introduction {}Targets the element whose 
@@ -45,7 +45,8 @@ linking to a CSS file.
 
   * Class Selector : .note {}Targets any element whose class
    attribute has a value of notep.note {}Targets only <p>  elements whose class attribute has a value of note.
-```
+```    
+
 # Color
 The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
 * rgb values : These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,200,300).
