@@ -14,10 +14,11 @@ A growth mindset is synonymous with a love of learning.
 
 ## table of contents ##
 
+
 |read title|link|
 |-------|-----------------------------------------    | 
 |Introductory HTML and JavaScript|[class-01](class-01)|
-|                         |[]()|
+|Basics of HTML, CSS & JS        |[class-02](class-02)|
 |                         |[]()|
 |                         |[]()| 
 |                         |[]()|
@@ -33,7 +34,7 @@ A growth mindset is synonymous with a love of learning.
 |                         |                        |
 ----------------------------------------------------
 
- [Code's-102 Table](Code-102/table-102)
+ >**[Code's-102 Table of content](Code-102/table-102)**
 
 ***code-201:***
 - [ ] HTML
