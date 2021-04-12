@@ -28,6 +28,8 @@ horizontal rule between sections using the <hr /> tag.
 * Code views show you the code created by the visual editor. 
 ## Semantic Markup
 text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages.
+
+
 ```html
 The use of the <strong> element indicates that its content has strong importance.
 
@@ -47,6 +49,7 @@ The <dfn> element is used to indicate the defining instance of a new term.
 
 * The <s> element indicates something that is no longer 
 accurate or relevant.
+
 ```
 
 # Introducing CSS
@@ -88,6 +91,7 @@ linking to a CSS file.
 ## CSS Selectors
  CSS selector that allow you to target rules to specific elements in an HTML document, CSS selectors are case sensitive, so they must match element names and attribute values exactly.
  * Examples:
+
 ```html
   * Type Selector : h1, h2, h3 {}Targets the <h1>, <h2> and  <h3> elements
 
@@ -97,6 +101,7 @@ linking to a CSS file.
   * Class Selector : .note {}Targets any element whose class
    attribute has a value of notep.note {}Targets only <p>  elements whose class attribute has a value of note.
 ```    
+
 ## How Css Rules Cascade
 If there are two or more rules that apply to the same element, which will take precedence?
 * LAST RULE
