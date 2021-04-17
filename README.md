@@ -22,7 +22,7 @@ A growth mindset is synonymous with a love of learning.
 |HTML Lists, Control Flow with JS, and the CSS Box Model|[class-03](class-03)|
 |HTML Links, JS Functions, and Intro to CSS Layout|[class-04](class-04)| 
 |Images, Color, Text             |[class-05](class-05)|
-|                         |[]()|
+|Problem Domain, Objects, and the DOM|[class-06](class-06)|
 |                         |[]()|
 |                         |                        |
 |                         |                        |
