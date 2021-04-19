@@ -23,8 +23,8 @@ A growth mindset is synonymous with a love of learning.
 |HTML Links, JS Functions, and Intro to CSS Layout|[class-04](class-04)| 
 |Images, Color, Text             |[class-05](class-05)|
 |Problem Domain, Objects, and the DOM|[class-06](class-06)|
-|                         |[]()|
-|                         |                        |
+|Object-Oriented Programming, HTML Tables|[class-07](class-07)|
+|CSS Layout               |  [class-08](class-08)  |
 |                         |                        |
 |                         |                        |
 |                         |                        |
