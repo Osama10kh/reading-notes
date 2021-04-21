@@ -26,7 +26,7 @@ A growth mindset is synonymous with a love of learning.
 |Object-Oriented Programming, HTML Tables|[class-07](class-07)|
 |CSS Layout               |  [class-08](class-08)  |
 |Forms and JS Events      |  [class-09](class-09)  |
-|                         |                        |
+|Debugging                |  [class-10](class-10)  |
 |                         |                        |
 |                         |                        |
 |                         |                        |
