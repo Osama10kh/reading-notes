@@ -25,7 +25,7 @@ A growth mindset is synonymous with a love of learning.
 |Problem Domain, Objects, and the DOM|[class-06](class-06)|
 |Object-Oriented Programming, HTML Tables|[class-07](class-07)|
 |CSS Layout               |  [class-08](class-08)  |
-|                         |                        |
+|Forms and JS Events      |  [class-09](class-09)  |
 |                         |                        |
 |                         |                        |
 |                         |                        |
