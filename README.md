@@ -27,7 +27,7 @@ A growth mindset is synonymous with a love of learning.
 |CSS Layout               |  [class-08](class-08)  |
 |Forms and JS Events      |  [class-09](class-09)  |
 |Debugging                |  [class-10](class-10)  |
-|                         |                        |
+|Audio, Video, Images     |  [class-11](class-11)  |
 |                         |                        |
 |                         |                        |
 |                         |                        |
