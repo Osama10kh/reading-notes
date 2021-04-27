@@ -26,9 +26,9 @@ A growth mindset is synonymous with a love of learning.
 | Forms and JS Events                                     | [class-09](class-09)   |
 | Debugging                                               | [class-10](class-10)   |
 | Audio, Video, Images                                    | [class-11](class-11)   |
-|                                                         |                        |
-|                                                         |                        |
-|                                                         | [class-14a](class-14a) |
+|                                                         | [class-12](class-12)   |
+| Local Storage                                           | [class-13](class-13)   |
+| CSS Transforms, Transitions, and Animations             | [class-14a](class-14a) |
 |                                                         |                        |
 
 ---
